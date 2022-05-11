@@ -1,2 +1,2 @@
 # surfs_up
-learning sqllite
+learning sqlite
